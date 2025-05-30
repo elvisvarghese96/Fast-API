@@ -1,6 +1,6 @@
 FastAPI CRUD Application
 
-This basic FastAPI project is designed to perform CRUD (Create, Read, Update, Delete) operations on a database. 
+This basic FastAPI project is designed to perform CRUD (Create, Read, Update, Delete) operations. 
 
 Project Overview
 
